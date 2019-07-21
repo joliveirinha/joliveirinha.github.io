@@ -1,7 +1,7 @@
 ## oliveirinha.me
 
 
-## BUILD
+## Build
 
 ```
 npm install
